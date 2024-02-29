@@ -1,0 +1,5 @@
+let string = prompt("String tyepdagi ma'lumot kiriting")
+let number = prompt("Number typedagi ma'lumot kiriting")
+let boolean = prompt("Boolean typedagi ma'lumot kiriting")
+alert("Hamma ma'lumotlarni to'g'ri kiritganingizga ishonchingiz komilmi?")
+alert(" Siz kiritgan " + string + " so'zi string typega tegishli" + "\n Siz kiritgan " + number + " so'zi Number typega tegishli" + "\n Siz kiritgan " + boolean + " so'zi Boolean typega tegishli")
